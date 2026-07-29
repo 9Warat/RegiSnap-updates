@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
+  "version": "1.4.0",
   "url": "https://github.com/9Warat/RegiSnap-updates/releases/latest/download/RegiSnap-Setup.exe",
-  "notes": "RegiSnap 1.3.0 — เลือกภาษาได้ (ไทย/อังกฤษ) ทั้งโปรแกรม"
+  "notes": "RegiSnap 1.4.0 — ปรับขนาดไฮไลต์เมาส์, แสดง/ซ่อนเว็บแคม (PIP), ตำแหน่ง PIP ตรงกับ export"
 }
