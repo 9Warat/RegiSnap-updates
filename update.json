@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
+  "version": "1.5.0",
   "url": "https://github.com/9Warat/RegiSnap-updates/releases/latest/download/RegiSnap-Setup.exe",
-  "notes": "RegiSnap 1.4.0 — ปรับขนาดไฮไลต์เมาส์, แสดง/ซ่อนเว็บแคม (PIP), ตำแหน่ง PIP ตรงกับ export"
+  "notes": "RegiSnap 1.5.0 — แถบอัดวิดีโอลอย, ชื่อ+ย่อแถบเครื่องมือในตัวแก้ไขภาพ, ปุ่มย่อ/ขยายหน้าต่าง, อัปเดตเสถียรขึ้น"
 }
