@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
+  "version": "1.8.0",
   "url": "https://github.com/9Warat/RegiSnap-updates/releases/latest/download/RegiSnap-Setup.exe",
-  "notes": "RegiSnap 1.7.0 — ตัดต่อวิดีโอ (ตัดช่วง/ลบแทร็ก/undo-redo/ไทม์ไลน์ซูมได้/เปิดเองหลังอัด), โหมดสว่าง-มืด, เลือกสีพื้นหลังในตัวแก้ไขภาพ"
+  "notes": "RegiSnap 1.8.0 — ตัวตัดต่อวิดีโอแบบคลิปเต็มตัว: แยก/จัดเรียง/ย้าย/trim/ลบ, อัดเสียงพากย์, แยกเสียง, คลื่นเสียง, ปรับความเร็วรายคลิป, snapping, undo/redo"
 }
